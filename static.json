@@ -1,7 +1,8 @@
 {
   "headers":{
     "*/":{
-       "X-Author":"seriywolf"
+       "X-Author":"seriywolf";
+       "Access-Control-Allow-Origin":"*";
     }
   }
 }
